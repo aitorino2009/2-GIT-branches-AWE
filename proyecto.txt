@@ -1,4 +1,4 @@
 Proyecto Principal - Versión Inicial
 Línea 1: Esta es la base estable del proyecto.
 Línea 2: Todo el equipo trabaja sobre esta versión.
-Línea 3: Versión modificada de forma diferente directamente en main.
+Línea 3: Versión unificada y consensuada que combina los cambios de main y feature-conflicto.
