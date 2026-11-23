@@ -1,3 +1,4 @@
 Proyecto Principal - Versión Inicial
 Línea 1: Esta es la base estable del proyecto.
 Línea 2: Todo el equipo trabaja sobre esta versión.
+Línea 3: Esta es una nueva funcionalidad experimental desarrollada en nueva-idea.
